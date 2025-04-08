@@ -18,3 +18,8 @@ This project performs an analysis of video game sales data using Python. The ana
    ```bash
    git clone https://github.com/your_username/your_repository.git
    cd your_repository
+
+2. **Set up a virtual environment (optional but recommended):**
+   ```bash
+   python -m venv env
+   source env/bin/activate  # For Windows: env\Scripts\activate

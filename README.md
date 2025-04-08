@@ -64,14 +64,14 @@ To deploy or run the analysis:
  
 ## Author
  
-**Your Name**  
-[Your Contact Information or GitHub Profile](https://github.com/your_username)
+**Tanya Tyagi**  
+
  
 ---
  
 ## License
  
-This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
+This project is licensed under the Durham college..
  
 ---
  
